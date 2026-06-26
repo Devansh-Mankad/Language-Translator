@@ -84,6 +84,6 @@ http://127.0.0.1:5000/
 
 👨‍💻 Developed By
 Devansh Mankad
-
 GitHub: https://github.com/Devansh-Mankad
+
 ⭐ If you found this project useful, consider giving it a star on GitHub!
